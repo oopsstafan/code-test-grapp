@@ -13,13 +13,13 @@ This is a small web application created by React.js on frontend and node.js on b
 ## Assumptions
 1. When you start the application, I initialized a member 'kevin' and a reward 'gold'. Member info includes member id(pk), member name, and reward id(fk); Reward info includes reward id(pk) and reward name.
 2. A member can only be assigned one reward
-3. Validations include new member or reward name can not be existed, when searching, deleting member or reward, they must be existed
+3. Validations include new member or reward name can not be existed, when searching, deleting members or rewards, they must be existed
 4. All inputs are case sensitive.
 
 
 ## Resources
-1. React.js
-2. Node.js along with mysql and express
+1. React.js (staging tool is 'create-react-app')
+2. Node.js along with mysql2 and express
 
 
 ## Timeline
